@@ -1,1 +1,1 @@
-# gnome-shell-extension-busylight
+# gnome-shell-extension-busylighttoggle
