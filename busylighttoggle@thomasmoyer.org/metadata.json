@@ -1,0 +1,8 @@
+{
+  "name": "Busylight Toggle",
+  "description": "Quickly toggle status indicator lights that work with the busylight python module",
+  "uuid": "busylighttoggle@thomasmoyer.org",
+  "shell-version": [
+    "43"
+  ]
+}
